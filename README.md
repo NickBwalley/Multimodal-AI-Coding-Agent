@@ -81,3 +81,10 @@ pip install python-dotenv
 3. View the generated solution with full documentation
 4. See execution results and any generated files
 5. Review any error messages or execution timeouts
+
+## Screenshots
+
+![img1](assets/img1.png)
+![img2](assets/img2.png)
+![img3](assets/img3.png)
+![img4](assets/img4.png)
