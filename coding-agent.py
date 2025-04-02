@@ -7,6 +7,7 @@ from e2b_code_interpreter import Sandbox
 import os
 from PIL import Image
 from io import BytesIO
+import openai
 import base64
 
 def initialize_session_state() -> None:
